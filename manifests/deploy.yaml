@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: exo1-react
-          image: REGISTRY/exo1:TAG
+          image: corentinvdg10/exo1:latest
           ports:
             - containerPort: 80
 ---
